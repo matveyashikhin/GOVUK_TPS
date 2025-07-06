@@ -6,6 +6,8 @@
 
 ### Having gone through some iteration (thanks Claude), the current app looks better and is also now hosted on PythonAnywhere 
 
+<code style="color : red">Currently awaiting a response from GOVUK requesting more permissions to data to allow a one time scrape of historical filings. </code>
+
 https://matvash.pythonanywhere.com/
 
 <img width="1394" alt="Screenshot 2025-06-24 at 21 25 17" src="https://github.com/user-attachments/assets/79f0f90c-2672-4d94-8158-8689f9d56fff" />
